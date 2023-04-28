@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\Track365.Data.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\Track365.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\Track365.Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\Track365.Data.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\Track365.Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Track365\Track365.Data\bin\Debug\net7.0\Track365.Data.deps.json
+C:\Users\Administrator\source\repos\Track365\Track365.Data\bin\Debug\net7.0\Track365.Data.dll
+C:\Users\Administrator\source\repos\Track365\Track365.Data\bin\Debug\net7.0\Track365.Data.pdb
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\Track365.Data.dll
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\refint\Track365.Data.dll
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\Track365.Data.pdb
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\ref\Track365.Data.dll
+C:\Users\Administrator\source\repos\Track365\Track365.Data\bin\Debug\net7.0\Track365.Models.dll
+C:\Users\Administrator\source\repos\Track365\Track365.Data\bin\Debug\net7.0\Track365.Models.pdb
+C:\Users\Administrator\source\repos\Track365\Track365.Data\obj\Debug\net7.0\Track365.Data.csproj.CopyComplete
